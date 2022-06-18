@@ -1,0 +1,219 @@
+10:22:17.516 Navigated to https://www.aarons.com/
+10:22:17.608 <link rel=preload> has an unsupported `type` value
+10:22:17.608 <link rel=preload> has an unsupported `type` value
+10:22:17.608 <link rel=preload> has an unsupported `type` value
+10:22:17.608 <link rel=preload> has an unsupported `type` value
+10:22:17.608 <link rel=preload> has an unsupported `type` value
+10:22:17.608 <link rel=preload> has an unsupported `type` value
+10:22:17.608 <link rel=preload> has an unsupported `type` value
+10:22:17.608 <link rel=preload> has an unsupported `type` value
+10:22:17.608 <link rel=preload> has an unsupported `type` value
+10:22:17.608 <link rel=preload> has an unsupported `type` value
+10:22:18.021 DevTools failed to load source map: Could not load content for https://cdn.zingle.me/web-chat/zingle.1.23.5.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+10:22:18.067 (index):10842 SLOT: promos-container -- SMS_Email_Capture_Interstitial
+10:22:18.588 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:22:18.588 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:22:18.589 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:22:18.589 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:22:18.594 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:22:18.917 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:22:18.923 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:22:18.923 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:22:18.923 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:22:18.923 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:22:19.059 fbevents.js:24 [Meta Pixel] - Duplicate Pixel ID: 217046297165307.
+t @ fbevents.js:24
+w @ fbevents.js:24
+E @ fbevents.js:24
+Y @ fbevents.js:27
+X @ fbevents.js:27
+ta @ fbevents.js:27
+(anonymous) @ fbevents.js:27
+(anonymous) @ fbevents.js:24
+v @ fbevents.js:24
+each @ fbevents.js:24
+value @ fbevents.js:24
+value @ fbevents.js:24
+value @ fbevents.js:24
+plugin @ 2867651133325019?v=2.9.62&r=stable:67
+value @ fbevents.js:24
+a.registerPlugin @ fbevents.js:27
+(anonymous) @ 2867651133325019?v=2.9.62&r=stable:32
+10:22:19.073 cirt_v2.min.js:1 https://ad.ipredictive.com/d/rt/pixel?uuid=dac34790-3ec8-4de0-b4f1-03f2992f589c&rtsite_id=46127&sdk_src=js&ts=1655104939&rr=9311665504706053&sdkv=1.0.0-beta&res=1536x864&cookie=1&ref=https%3A%2F%2Fwww.aarons.com%2Felectronics%2Fdesktop-computers%2Fomen-desktop-with-ryzen-5-cpu-27-monitor-and-total-defense-security-GHO5HO5.html&dloc=https%3A%2F%2Fwww.aarons.com%2F&ds=1&xp_pdf=1&xp_qt=0&xp_realp=0&xp_wma=0&xp_dir=0&xp_fla=0&xp_java=0&xp_gears=0&xp_ag=0&event=pageview&ev_pageview=%7B%22url%22%3A%22https%3A%2F%2Fwww.aarons.com%2F%22%2C%22title%22%3A%22Rent%20to%20Own%20Furniture%2C%20Electronics%20and%20Appliances%20%7C%20Aaron's%22%7D
+10:22:19.245 companion-bubble.js:1436 Uncaught (in promise) TypeError: Cannot destructure property 'eligibleURLPatterns' of 'Jt' as it is undefined.
+    at companion-bubble.js:1436:11909
+    at Generator.next (<anonymous>)
+    at tn (companion-bubble.js:1436:11431)
+(anonymous) @ companion-bubble.js:1436
+tn @ companion-bubble.js:1436
+Promise.then (async)
+dn @ companion-bubble.js:1436
+(anonymous) @ companion-bubble.js:1436
+St @ companion-bubble.js:1436
+(anonymous) @ companion-bubble.js:1436
+(anonymous) @ companion-bubble.js:1436
+dh @ companion-bubble.js:1333
+r.unstable_runWithPriority @ companion-bubble.js:1340
+go @ companion-bubble.js:1329
+Qs @ companion-bubble.js:1333
+Cl @ companion-bubble.js:1331
+(anonymous) @ companion-bubble.js:1329
+r.unstable_runWithPriority @ companion-bubble.js:1340
+go @ companion-bubble.js:1329
+nc @ companion-bubble.js:1329
+es @ companion-bubble.js:1329
+Mf @ companion-bubble.js:1331
+Hf @ companion-bubble.js:1333
+r.render @ companion-bubble.js:1333
+(anonymous) @ companion-bubble.js:1436
+Promise.then (async)
+(anonymous) @ companion-bubble.js:1436
+t @ companion-bubble.js:1
+(anonymous) @ companion-bubble.js:1420
+t @ companion-bubble.js:1
+(anonymous) @ companion-bubble.js:1
+(anonymous) @ companion-bubble.js:1
+10:22:26.590 Navigated to https://www.aarons.com/what-is-rent-to-own
+10:22:26.680 <link rel=preload> has an unsupported `type` value
+10:22:26.680 <link rel=preload> has an unsupported `type` value
+10:22:26.680 <link rel=preload> has an unsupported `type` value
+10:22:26.680 <link rel=preload> has an unsupported `type` value
+10:22:26.680 <link rel=preload> has an unsupported `type` value
+10:22:26.680 <link rel=preload> has an unsupported `type` value
+10:22:26.680 <link rel=preload> has an unsupported `type` value
+10:22:26.680 <link rel=preload> has an unsupported `type` value
+10:22:26.680 <link rel=preload> has an unsupported `type` value
+10:22:26.680 <link rel=preload> has an unsupported `type` value
+10:22:27.118 DevTools failed to load source map: Could not load content for https://cdn.zingle.me/web-chat/zingle.1.23.5.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+10:22:27.230 what-is-rent-to-own:10118 SLOT: promos-container -- SMS_Email_Capture_Interstitial
+10:22:27.746 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:22:27.747 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:22:27.747 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:22:27.747 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:22:27.748 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:22:28.167 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:22:28.167 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:22:28.167 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:22:28.167 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:22:28.176 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:22:28.218 fbevents.js:24 [Meta Pixel] - Duplicate Pixel ID: 217046297165307.
+t @ fbevents.js:24
+w @ fbevents.js:24
+E @ fbevents.js:24
+Y @ fbevents.js:27
+X @ fbevents.js:27
+ta @ fbevents.js:27
+(anonymous) @ fbevents.js:27
+(anonymous) @ fbevents.js:24
+v @ fbevents.js:24
+each @ fbevents.js:24
+value @ fbevents.js:24
+value @ fbevents.js:24
+value @ fbevents.js:24
+plugin @ 2867651133325019?v=2.9.62&r=stable:67
+value @ fbevents.js:24
+a.registerPlugin @ fbevents.js:27
+(anonymous) @ 2867651133325019?v=2.9.62&r=stable:32
+10:22:28.232 cirt_v2.min.js:1 https://ad.ipredictive.com/d/rt/pixel?uuid=dac34790-3ec8-4de0-b4f1-03f2992f589c&rtsite_id=46127&sdk_src=js&ts=1655104948&rr=9065160489506621&sdkv=1.0.0-beta&res=1536x864&cookie=1&ref=https%3A%2F%2Fwww.aarons.com%2F&dloc=https%3A%2F%2Fwww.aarons.com%2Fwhat-is-rent-to-own&ds=1&xp_pdf=1&xp_qt=0&xp_realp=0&xp_wma=0&xp_dir=0&xp_fla=0&xp_java=0&xp_gears=0&xp_ag=0&event=pageview&ev_pageview=%7B%22url%22%3A%22https%3A%2F%2Fwww.aarons.com%2Fwhat-is-rent-to-own%22%2C%22title%22%3A%22What%20is%20Rent%20to%20Own%3F%20%7C%20Aaron's%22%7D
+10:22:28.411 companion-bubble.js:1436 Uncaught (in promise) TypeError: Cannot destructure property 'eligibleURLPatterns' of 'Jt' as it is undefined.
+    at companion-bubble.js:1436:11909
+    at Generator.next (<anonymous>)
+    at tn (companion-bubble.js:1436:11431)
+(anonymous) @ companion-bubble.js:1436
+tn @ companion-bubble.js:1436
+Promise.then (async)
+dn @ companion-bubble.js:1436
+(anonymous) @ companion-bubble.js:1436
+St @ companion-bubble.js:1436
+(anonymous) @ companion-bubble.js:1436
+(anonymous) @ companion-bubble.js:1436
+dh @ companion-bubble.js:1333
+r.unstable_runWithPriority @ companion-bubble.js:1340
+go @ companion-bubble.js:1329
+Qs @ companion-bubble.js:1333
+Cl @ companion-bubble.js:1331
+(anonymous) @ companion-bubble.js:1329
+r.unstable_runWithPriority @ companion-bubble.js:1340
+go @ companion-bubble.js:1329
+nc @ companion-bubble.js:1329
+es @ companion-bubble.js:1329
+Mf @ companion-bubble.js:1331
+Hf @ companion-bubble.js:1333
+r.render @ companion-bubble.js:1333
+(anonymous) @ companion-bubble.js:1436
+Promise.then (async)
+(anonymous) @ companion-bubble.js:1436
+t @ companion-bubble.js:1
+(anonymous) @ companion-bubble.js:1420
+t @ companion-bubble.js:1
+(anonymous) @ companion-bubble.js:1
+(anonymous) @ companion-bubble.js:1
+10:22:47.536 what-is-rent-to-own:1 The resource https://www.aarons.com/on/demandware.static/-/Sites/default/dw482d405d/fonts/montserrat-v14-latin/montserrat-v14-latin-100.ttf was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+10:22:55.359 what-is-rent-to-own:1 The resource https://www.aarons.com/on/demandware.static/-/Sites/default/dw482d405d/fonts/montserrat-v14-latin/montserrat-v14-latin-100.ttf was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+10:23:03.128 what-is-rent-to-own:1 The resource https://www.aarons.com/on/demandware.static/-/Sites/default/dw482d405d/fonts/montserrat-v14-latin/montserrat-v14-latin-100.ttf was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+10:23:11.282 what-is-rent-to-own:1 The resource https://www.aarons.com/on/demandware.static/-/Sites/default/dw482d405d/fonts/montserrat-v14-latin/montserrat-v14-latin-100.ttf was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+10:23:12.740 omen-desktop-with-ryzen-5-cpu-27-monitor-and-total-defense-security-GHO5HO5.html:1          GET https://www.aarons.com/electronics/desktop-computers/omen-desktop-with-ryzen-5-cpu-27-monitor-and-total-defense-security-GHO5HO5.html 404
+10:23:12.774 Navigated to https://www.aarons.com/electronics/desktop-computers/omen-desktop-with-ryzen-5-cpu-27-monitor-and-total-defense-security-GHO5HO5.html
+10:23:12.911 <link rel=preload> has an unsupported `type` value
+10:23:12.911 <link rel=preload> has an unsupported `type` value
+10:23:12.911 <link rel=preload> has an unsupported `type` value
+10:23:12.911 <link rel=preload> has an unsupported `type` value
+10:23:12.911 <link rel=preload> has an unsupported `type` value
+10:23:12.911 <link rel=preload> has an unsupported `type` value
+10:23:12.911 <link rel=preload> has an unsupported `type` value
+10:23:12.911 <link rel=preload> has an unsupported `type` value
+10:23:12.911 <link rel=preload> has an unsupported `type` value
+10:23:12.911 <link rel=preload> has an unsupported `type` value
+10:23:13.087 omen-desktop-with-ryzen-5-cpu-27-monitor-and-total-defense-security-GHO5HO5.html:8258 Uncaught ReferenceError: _etmc is not defined
+    at omen-desktop-with-ryzen-5-cpu-27-monitor-and-total-defense-security-GHO5HO5.html:8258:1
+(anonymous) @ omen-desktop-with-ryzen-5-cpu-27-monitor-and-total-defense-security-GHO5HO5.html:8258
+10:23:13.087 omen-desktop-with-ryzen-5-cpu-27-monitor-and-total-defense-security-GHO5HO5.html:8328 Uncaught ReferenceError: _etmc is not defined
+    at omen-desktop-with-ryzen-5-cpu-27-monitor-and-total-defense-security-GHO5HO5.html:8328:1
+(anonymous) @ omen-desktop-with-ryzen-5-cpu-27-monitor-and-total-defense-security-GHO5HO5.html:8328
+10:23:13.395 DevTools failed to load source map: Could not load content for https://cdn.zingle.me/web-chat/zingle.1.23.5.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+10:23:13.715 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:23:13.715 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:23:13.716 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:23:13.716 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:23:13.720 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:23:14.090 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:23:14.090 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:23:14.090 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:23:14.090 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:23:14.091 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:23:14.137 cirt_v2.min.js:1 https://ad.ipredictive.com/d/rt/pixel?uuid=dac34790-3ec8-4de0-b4f1-03f2992f589c&rtsite_id=46127&sdk_src=js&ts=1655104994&rr=0256939471838451&sdkv=1.0.0-beta&res=1536x864&cookie=1&ref=&dloc=https%3A%2F%2Fwww.aarons.com%2Felectronics%2Fdesktop-computers%2Fomen-desktop-with-ryzen-5-cpu-27-monitor-and-total-defense-security-GHO5HO5.html&ds=1&xp_pdf=1&xp_qt=0&xp_realp=0&xp_wma=0&xp_dir=0&xp_fla=0&xp_java=0&xp_gears=0&xp_ag=0&event=pageview&ev_pageview=%7B%22url%22%3A%22https%3A%2F%2Fwww.aarons.com%2Felectronics%2Fdesktop-computers%2Fomen-desktop-with-ryzen-5-cpu-27-monitor-and-total-defense-security-GHO5HO5.html%22%2C%22title%22%3A%22404%20Not%20Found%20%7C%20Aaron's%22%7D
+10:23:14.352 companion-bubble.js:1436 Uncaught (in promise) TypeError: Cannot destructure property 'eligibleURLPatterns' of 'Jt' as it is undefined.
+    at companion-bubble.js:1436:11909
+    at Generator.next (<anonymous>)
+    at tn (companion-bubble.js:1436:11431)
+(anonymous) @ companion-bubble.js:1436
+tn @ companion-bubble.js:1436
+Promise.then (async)
+dn @ companion-bubble.js:1436
+(anonymous) @ companion-bubble.js:1436
+St @ companion-bubble.js:1436
+(anonymous) @ companion-bubble.js:1436
+(anonymous) @ companion-bubble.js:1436
+dh @ companion-bubble.js:1333
+r.unstable_runWithPriority @ companion-bubble.js:1340
+go @ companion-bubble.js:1329
+Qs @ companion-bubble.js:1333
+Cl @ companion-bubble.js:1331
+(anonymous) @ companion-bubble.js:1329
+r.unstable_runWithPriority @ companion-bubble.js:1340
+go @ companion-bubble.js:1329
+nc @ companion-bubble.js:1329
+es @ companion-bubble.js:1329
+Mf @ companion-bubble.js:1331
+Hf @ companion-bubble.js:1333
+r.render @ companion-bubble.js:1333
+(anonymous) @ companion-bubble.js:1436
+Promise.then (async)
+(anonymous) @ companion-bubble.js:1436
+t @ companion-bubble.js:1
+(anonymous) @ companion-bubble.js:1420
+t @ companion-bubble.js:1
+(anonymous) @ companion-bubble.js:1
+(anonymous) @ companion-bubble.js:1
+10:23:21.763 omen-desktop-with-ryzen-5-cpu-27-monitor-and-total-defense-security-GHO5HO5.html:1 The resource https://www.aarons.com/on/demandware.static/-/Sites/default/dw482d405d/fonts/montserrat-v14-latin/montserrat-v14-latin-100.ttf was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+10:23:30.843 omen-desktop-with-ryzen-5-cpu-27-monitor-and-total-defense-security-GHO5HO5.html:1 The resource https://www.aarons.com/on/demandware.static/-/Sites/default/dw482d405d/fonts/montserrat-v14-latin/montserrat-v14-latin-100.ttf was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
